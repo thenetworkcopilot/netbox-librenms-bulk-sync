@@ -235,10 +235,6 @@ Bulk sync process complete!
 - Create a dedicated service account for automation
 - Rotate tokens periodically
 
-### Network Access
-- Run script from a trusted network or management subnet
-- Consider using SSH tunnels if running remotely
-- Ensure NetBox uses HTTPS in production
 
 ## 🤝 Contributing
 
@@ -268,19 +264,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Related Projects
 
 - [Network Copilot AI Agent](https://github.com/yourusername/network-copilot) - AI-powered network management assistant (uses this script for data synchronization)
-- [My YouTube Series](https://youtube.com/your-channel) - Video tutorials on network automation with AI
+- [My YouTube Series](https://youtu.be/pSWuMHsaFio) - Video of Plugin and Python sync in a lab environment.
 
-## 📊 Project Status
 
-**Active Development** - This project is actively maintained and used in production environments.
-
-### Roadmap
-- [ ] Add support for configurable interface name field selection
-- [ ] Implement retry logic for failed API calls
-- [ ] Add dry-run mode to preview changes
-- [ ] Support for custom field mappings
-- [ ] Prometheus metrics export for monitoring sync health
-- [ ] Multi-threading support for faster processing
 
 ---
 
