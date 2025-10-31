@@ -270,4 +270,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by Rishi** | [YouTube](www.youtube.com/@RishiNetworks)
