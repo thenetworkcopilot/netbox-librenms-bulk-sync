@@ -263,8 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Projects
 
-- [Network Copilot AI Agent](https://github.com/yourusername/network-copilot) - AI-powered network management assistant (uses this script for data synchronization)
-- [My YouTube Series](https://youtu.be/pSWuMHsaFio) - Video of Plugin and Python sync in a lab environment.
+- [YouTube Video showing plugin](https://youtu.be/pSWuMHsaFio) - Video of Plugin and Python sync in a lab environment.
 
 
 
